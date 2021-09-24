@@ -3,10 +3,7 @@ const imagesLight = document.querySelector('.add-image')
 const lightContent = document.querySelector('.image-light')
 const menuIcon1 = document.querySelector(".menu-icon");
 
-/* console.log(images)
-console.log(imagesLight)
-console.log(lightContent)
- */
+
 /*LightBox*/
 
 images.forEach(image =>{
